@@ -1,0 +1,6 @@
+flask
+selenium
+pyzbar
+pillow
+requests
+gunicorn
